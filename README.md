@@ -1,2 +1,2 @@
-Idol-Ideas
+Resume Scanner Code 
 ==========
